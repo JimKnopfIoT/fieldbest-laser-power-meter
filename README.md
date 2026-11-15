@@ -1,6 +1,6 @@
 # FieldBest laser power meter
 
-Notes, tools and test data for the **FieldBest II** laser power meter, a low-cost
+Notes, tools and test data for the **FieldBest** laser power meter, a low-cost
 thermal power meter (18 mm aperture, up to about 50 W) that is sold under several
 shop names. There is very little to read about it beyond a short manual. This repo
 collects what was found out by actually using it: the USB protocol, a logger, and
