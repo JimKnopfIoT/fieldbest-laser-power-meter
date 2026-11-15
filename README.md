@@ -156,7 +156,7 @@ Tools are LLM assisted developed.
 | Laser | Label | Reading |
 |---|---|---|
 | Grid-pattern laser module | 50 mW | 0.053 W |
-| 505 nm dot module | 30 mW (35 mW diode) | ~0.045 W (hand-held) |
+| 505 nm dot module | 30 mW (35 mW diode) | ~0.03 to 0.045 W (hand-held) |
 
 ### 455 nm diode laser, 20 W (PWM), 5 mm circle, 100 mm/s
 
