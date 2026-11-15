@@ -48,7 +48,7 @@ needs its own supply. The head plugs into a BNC socket.
 
 | | |
 |---|---|
-| Supply | 9–12 V DC per the rear label (the manual says 9–15 V), 5.5/2.1 mm barrel, centre positive, 9 V adapter included |
+| Supply | 9–12 V DC per the rear label (the manual says 9–15 V), 5.5/2.1 mm barrel, centre positive, 12 V adapter included |
 | Head | BNC socket, 2-wire signal from the thermopile disc |
 | Supply current | 49 mA at 10 V (≈ 0.5 W), measured while it was logging over USB |
 | USB ID | `0483:5740` (STM32 Virtual COM Port) |
