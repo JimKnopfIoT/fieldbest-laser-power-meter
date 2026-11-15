@@ -56,7 +56,7 @@ needs its own supply. The head plugs into a BNC socket.
 | Linux | `cdc_acm`, shows up as `/dev/ttyACM*` |
 | Baud rate | ignored on USB, any value works |
 
-The 9 V adapter that comes with the meter has a plug that does not fit EU
+The 12 V adapter that comes with the meter has a plug that does not fit EU
 sockets. For all measurements here the meter was therefore powered from a lab
 supply (EEZ BB3) set to **10 V with a 100 mA current limit**. It draws 49 mA, so
 the supply stays in constant-voltage mode with plenty of headroom.
