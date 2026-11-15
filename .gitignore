@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local / private notes — never publish
+CLAUDE.md
+HANDOFF.md
+STATUS.md
+.claude/
+*.local.*
+
+# Local runtime output (charts in media/ are tracked)
+*.png
+!media/*.png
+*.jpg
+!media/*.jpg
+STOP
+STOP_FIELDBEST
+fieldbest_2*.csv
+!data/**/*.csv
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Raw logs and the script that rebuilds charts from them — kept local
+local/
